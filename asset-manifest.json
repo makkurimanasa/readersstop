@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1b5dcb3.css",
-    "main.js": "/static/js/main.d1de9187.js",
-    "static/js/453.ee489830.chunk.js": "/static/js/453.ee489830.chunk.js",
-    "index.html": "/index.html",
-    "main.b1b5dcb3.css.map": "/static/css/main.b1b5dcb3.css.map",
-    "main.d1de9187.js.map": "/static/js/main.d1de9187.js.map",
-    "453.ee489830.chunk.js.map": "/static/js/453.ee489830.chunk.js.map"
+    "main.css": "/readersstop/static/css/main.b1b5dcb3.css",
+    "main.js": "/readersstop/static/js/main.f43f650d.js",
+    "static/js/453.ee489830.chunk.js": "/readersstop/static/js/453.ee489830.chunk.js",
+    "index.html": "/readersstop/index.html",
+    "main.b1b5dcb3.css.map": "/readersstop/static/css/main.b1b5dcb3.css.map",
+    "main.f43f650d.js.map": "/readersstop/static/js/main.f43f650d.js.map",
+    "453.ee489830.chunk.js.map": "/readersstop/static/js/453.ee489830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b5dcb3.css",
-    "static/js/main.d1de9187.js"
+    "static/js/main.f43f650d.js"
   ]
 }
