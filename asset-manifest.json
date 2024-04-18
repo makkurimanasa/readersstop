@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/manasa/static/css/main.f855e6bc.css",
-    "main.js": "/manasa/static/js/main.9e18f15f.js",
-    "static/js/592.e0c1d20b.chunk.js": "/manasa/static/js/592.e0c1d20b.chunk.js",
-    "index.html": "/manasa/index.html",
-    "main.f855e6bc.css.map": "/manasa/static/css/main.f855e6bc.css.map",
-    "main.9e18f15f.js.map": "/manasa/static/js/main.9e18f15f.js.map",
-    "592.e0c1d20b.chunk.js.map": "/manasa/static/js/592.e0c1d20b.chunk.js.map"
+    "main.css": "/readersstop/static/css/main.f855e6bc.css",
+    "main.js": "/readersstop/static/js/main.5f9e50cb.js",
+    "static/js/592.e0c1d20b.chunk.js": "/readersstop/static/js/592.e0c1d20b.chunk.js",
+    "index.html": "/readersstop/index.html",
+    "main.f855e6bc.css.map": "/readersstop/static/css/main.f855e6bc.css.map",
+    "main.5f9e50cb.js.map": "/readersstop/static/js/main.5f9e50cb.js.map",
+    "592.e0c1d20b.chunk.js.map": "/readersstop/static/js/592.e0c1d20b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9e18f15f.js"
+    "static/js/main.5f9e50cb.js"
   ]
 }
